@@ -1,16 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shayanulhaq16/shayanulhaq16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Shayan%20Ul%20Haq&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20curiosity%20into%20code&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://x.com/shayanulhaq16">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=A+question+is+the+key+to+knowledge.;Student+by+day%2C+coder+by+night+%F0%9F%A6%89;Building+with+HTML+%2B+CSS+%2B+Bootstrap;Currently+leveling+up+in+JavaScript+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## 🔍 The Question That Started It All
+
+> *"A question is the key to knowledge."*
+
+Every project on this profile began the same way — someone asked **"but how does this actually work?"** and refused to stop until they found out. That someone is me.
+
+<br>
+
+## 🌙 About Me
+
+```javascript
+const shayan = {
+  role: "Student",
+  location: "Exploring the web, one tag at a time",
+  currentFocus: "Sharpening JavaScript",
+  personality: ["night owl coder 🦉", "novel lover 📖", "curious by default"],
+  philosophy: "A question is the key to knowledge.",
+  funFact: "Debugs code at midnight, debugs plot twists at 1AM"
+};
+```
+
+- 🦉 **Night Owl Coder** — my best commits happen after everyone else logs off
+- 📖 **Reads novels like documentation** — always chasing the next chapter, whether it's a book or a codebase
+- 🌱 **Currently learning:** JavaScript — turning static pages into things that actually *respond*
+- 💡 **Believes:** the right question matters more than the fastest answer
+
+<br>
+
+## 🛠️ What I Build With
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</div>
+
+<br>
+
+## 📊 The Numbers Behind the Late Nights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shayanulhaq16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=EC4899&icon_color=6366F1&text_color=c9d1d9&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanulhaq16&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=EC4899" width="48%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanulhaq16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=c9d1d9" width="48%" />
+
+</div>
+
+<br>
+
+## 🎯 What I'm Chasing Next
+
+- [x] Master the fundamentals — HTML, CSS, Bootstrap
+- [ ] Get fluent in JavaScript
+- [ ] Build my first fully interactive project
+- [ ] Contribute to someone else's repo instead of just my own
+
+<br>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shayanulhaq5555@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shayan-ul-haq-757192397/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/shayanulhaq16">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Curious minds don't wait for the light to turn on — they ask why it's dark."* 🌙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
