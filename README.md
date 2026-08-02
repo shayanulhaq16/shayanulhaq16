@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4C1D95&height=200&section=header&text=Shayan%20Ul%20Haq&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20curiosity%20into%20code&descAlignY=58&descSize=18&fontFamily=Georgia" width="100%"/>
 
-<a href="https://x.com/shayanulhaq16">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=A+question+is+the+key+to+knowledge.;Student+by+day%2C+coder+by+night+%F0%9F%A6%89;Building+with+HTML+%2B+CSS+%2B+Bootstrap;Currently+leveling+up+in+JavaScript+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=A+question+is+the+key+to+knowledge.;Student+by+day%2C+coder+by+night+%F0%9F%A6%89;Building+with+HTML+%2B+CSS+%2B+Bootstrap;Currently+leveling+up+in+JavaScript+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
