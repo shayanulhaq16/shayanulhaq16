@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Shayan%20Ul%20Haq&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20curiosity%20into%20code&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4C1D95&height=200&section=header&text=Shayan%20Ul%20Haq&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20curiosity%20into%20code&descAlignY=58&descSize=18&fontFamily=Georgia" width="100%"/>
 
 <a href="https://x.com/shayanulhaq16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=A+question+is+the+key+to+knowledge.;Student+by+day%2C+coder+by+night+%F0%9F%A6%89;Building+with+HTML+%2B+CSS+%2B+Bootstrap;Currently+leveling+up+in+JavaScript+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=A+question+is+the+key+to+knowledge.;Student+by+day%2C+coder+by+night+%F0%9F%A6%89;Building+with+HTML+%2B+CSS+%2B+Bootstrap;Currently+leveling+up+in+JavaScript+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -55,12 +55,12 @@ const shayan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shayanulhaq16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=EC4899&icon_color=6366F1&text_color=c9d1d9&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanulhaq16&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=EC4899" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shayanulhaq16&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0F172A" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanulhaq16&theme=midnight-purple&hide_border=true&background=0F172A&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanulhaq16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanulhaq16&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=c9d1d9" width="48%" />
 
 </div>
 
@@ -97,6 +97,6 @@ const shayan = {
 
 *"Curious minds don't wait for the light to turn on — they ask why it's dark."* 🌙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
