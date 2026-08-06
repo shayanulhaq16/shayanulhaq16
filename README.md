@@ -6,38 +6,13 @@
 
 </div>
 
-<br>
 
-## 🔍 The Question That Started It All
-
-> *"A question is the key to knowledge."*
-
-Every project on this profile began the same way — someone asked **"but how does this actually work?"** and refused to stop until they found out. That someone is me.
-
-<br>
-
-## 🌙 About Me
-
-```javascript
-const shayan = {
-  role: "Student",
-  location: "Exploring the web, one tag at a time",
-  currentFocus: "Sharpening JavaScript",
-  personality: ["night owl coder 🦉", "novel lover 📖", "curious by default"],
-  philosophy: "A question is the key to knowledge.",
-  funFact: "Debugs code at midnight, debugs plot twists at 1AM"
-};
-```
-
-- 🦉 **Night Owl Coder** — my best commits happen after everyone else logs off
-- 📖 **Reads novels like documentation** — always chasing the next chapter, whether it's a book or a codebase
-- 🌱 **Currently learning:** JavaScript — turning static pages into things that actually *respond*
-- 💡 **Believes:** the right question matters more than the fastest answer
 
 <br>
 
 ## 🛠️ What I Build With
 
+<br>
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,18 +22,11 @@ const shayan = {
 
 </div>
 
-<br>
 
-## 📊 The Numbers Behind the Late Nights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shayanulhaq16&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0F172A" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanulhaq16&theme=midnight-purple&hide_border=true&background=0F172A&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanulhaq16&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=c9d1d9" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanulhaq16&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F172A&title_color=A78BFA&text_color=c9d1d9" width="48%" /> -->
 
 </div>
 
